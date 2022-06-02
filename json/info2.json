@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Side Table",
+        "img": "assets/table.png",
+        "brand":"Brand: IKEA",
+        "price":"100$"
+    },
+
+    {
+        "title": "Shoes",
+        "img": "assets/shoepic.png",
+        "brand":"Brand: VANZ",
+        "price":"50$"
+    },
+
+    {
+        "title": "Makeup",
+        "img": "assets/makeuppic.png",
+        "brand":"Brand: CHANEL",
+        "price":"100$"
+    },
+
+    {
+        "title": "Dress",
+        "img": "assets/dresspic.png",
+        "brand":"Brand: ICONIC",
+        "price":"150$"
+    },
+
+    {
+        "title": "Shoes",
+        "img": "assets/shoe2.png",
+        "brand":"Brand: Nike",
+        "price":"200$"
+    },
+
+    {
+        "title": "Dress",
+        "img": "assets/dress2.png",
+        "brand":"Brand: ICONIC",
+        "price":"399$"
+    },
+
+    {
+        "title": "Chair",
+        "img": "assets/chair.png",
+        "brand":"Brand: IKEA",
+        "price":"170$"
+    }
+    
+]

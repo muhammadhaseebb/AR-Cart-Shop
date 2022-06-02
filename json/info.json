@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Furniture",
+        "img": "assets/furniture.png"
+    },
+
+    {
+        "title": "Makeup",
+        "img": "assets/makeup.png"
+    },
+
+    {
+        "title": "Shoes",
+        "img": "assets/shoes.png"
+    },
+    
+    {
+        "title": "Dresses",
+        "img": "assets/dresses.png"
+    },
+    {
+        "title": "Appliances",
+        "img": "assets/home appliances.png"
+    }
+]
